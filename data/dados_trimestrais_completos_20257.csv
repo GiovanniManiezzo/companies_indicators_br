@@ -1,0 +1,625 @@
+;CD_CVM;CD_CONTA;ESCALA_MOEDA;DT_INI_EXERC;DT_FIM_EXERC;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+0;20257;3.01;MIL;2011-01-01;2011-03-31;Receita de Venda de Bens e/ou Serviços;157946.0;S
+11;20257;3.99;MIL;2011-01-01;2011-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+10;20257;3.11;MIL;2011-01-01;2011-03-31;Lucro/Prejuízo Consolidado do Período;72834.0;S
+9;20257;3.10;MIL;2011-01-01;2011-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+7;20257;3.08;MIL;2011-01-01;2011-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-30168.0;S
+6;20257;3.07;MIL;2011-01-01;2011-03-31;Resultado Antes dos Tributos sobre o Lucro;103002.0;S
+8;20257;3.09;MIL;2011-01-01;2011-03-31;Resultado Líquido das Operações Continuadas;72834.0;S
+4;20257;3.05;MIL;2011-01-01;2011-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;138771.0;S
+3;20257;3.04;MIL;2011-01-01;2011-03-31;Despesas/Receitas Operacionais;-7046.0;S
+2;20257;3.03;MIL;2011-01-01;2011-03-31;Resultado Bruto;145817.0;S
+1;20257;3.02;MIL;2011-01-01;2011-03-31;Custo dos Bens e/ou Serviços Vendidos;-12129.0;S
+5;20257;3.06;MIL;2011-01-01;2011-03-31;Resultado Financeiro;-35769.0;S
+19;20257;3.08;MIL;2011-04-01;2011-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-29784.0;S
+22;20257;3.11;MIL;2011-04-01;2011-06-30;Lucro/Prejuízo Consolidado do Período;72746.0;S
+21;20257;3.10;MIL;2011-04-01;2011-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+20;20257;3.09;MIL;2011-04-01;2011-06-30;Resultado Líquido das Operações Continuadas;72746.0;S
+18;20257;3.07;MIL;2011-04-01;2011-06-30;Resultado Antes dos Tributos sobre o Lucro;102530.0;S
+23;20257;3.99;MIL;2011-04-01;2011-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+16;20257;3.05;MIL;2011-04-01;2011-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;141447.0;S
+15;20257;3.04;MIL;2011-04-01;2011-06-30;Despesas/Receitas Operacionais;-8158.0;S
+14;20257;3.03;MIL;2011-04-01;2011-06-30;Resultado Bruto;149605.0;S
+13;20257;3.02;MIL;2011-04-01;2011-06-30;Custo dos Bens e/ou Serviços Vendidos;-12760.0;S
+12;20257;3.01;MIL;2011-04-01;2011-06-30;Receita de Venda de Bens e/ou Serviços;162365.0;S
+17;20257;3.06;MIL;2011-04-01;2011-06-30;Resultado Financeiro;-38917.0;S
+35;20257;3.99;MIL;2011-07-01;2011-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+34;20257;3.11;MIL;2011-07-01;2011-09-30;Lucro/Prejuízo Consolidado do Período;276921.0;S
+33;20257;3.10;MIL;2011-07-01;2011-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+31;20257;3.08;MIL;2011-07-01;2011-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-137708.0;S
+30;20257;3.07;MIL;2011-07-01;2011-09-30;Resultado Antes dos Tributos sobre o Lucro;414629.0;S
+32;20257;3.09;MIL;2011-07-01;2011-09-30;Resultado Líquido das Operações Continuadas;276921.0;S
+28;20257;3.05;MIL;2011-07-01;2011-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;453533.0;S
+27;20257;3.04;MIL;2011-07-01;2011-09-30;Despesas/Receitas Operacionais;-10777.0;S
+26;20257;3.03;MIL;2011-07-01;2011-09-30;Resultado Bruto;464310.0;S
+25;20257;3.02;MIL;2011-07-01;2011-09-30;Custo dos Bens e/ou Serviços Vendidos;-13751.0;S
+24;20257;3.01;MIL;2011-07-01;2011-09-30;Receita de Venda de Bens e/ou Serviços;478061.0;S
+29;20257;3.06;MIL;2011-07-01;2011-09-30;Resultado Financeiro;-38904.0;S
+490;20257;3.11;MIL;2011-10-01;2011-12-31;Lucro/Prejuízo Consolidado do Período;72898.0;S
+489;20257;3.10;MIL;2011-10-01;2011-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+488;20257;3.09;MIL;2011-10-01;2011-12-31;Resultado Líquido das Operações Continuadas;72898.0;S
+487;20257;3.08;MIL;2011-10-01;2011-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-20934.0;S
+484;20257;3.05;MIL;2011-10-01;2011-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;158959.0;S
+485;20257;3.06;MIL;2011-10-01;2011-12-31;Resultado Financeiro;-65127.0;S
+483;20257;3.04;MIL;2011-10-01;2011-12-31;Despesas/Receitas Operacionais;-14463.0;S
+482;20257;3.03;MIL;2011-10-01;2011-12-31;Resultado Bruto;173422.0;S
+491;20257;3.99;MIL;2011-10-01;2011-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+486;20257;3.07;MIL;2011-10-01;2011-12-31;Resultado Antes dos Tributos sobre o Lucro;93832.0;S
+481;20257;3.02;MIL;2011-10-01;2011-12-31;Custo dos Bens e/ou Serviços Vendidos;-25450.0;S
+480;20257;3.01;MIL;2011-10-01;2011-12-31;Receita de Venda de Bens e/ou Serviços;198872.0;S
+36;20257;3.01;MIL;2012-01-01;2012-03-31;Receita de Venda de Bens e/ou Serviços;234377.0;S
+38;20257;3.03;MIL;2012-01-01;2012-03-31;Resultado Bruto;214750.0;S
+39;20257;3.04;MIL;2012-01-01;2012-03-31;Despesas/Receitas Operacionais;-14463.0;S
+40;20257;3.05;MIL;2012-01-01;2012-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;200287.0;S
+46;20257;3.11;MIL;2012-01-01;2012-03-31;Lucro/Prejuízo Consolidado do Período;95822.0;S
+41;20257;3.06;MIL;2012-01-01;2012-03-31;Resultado Financeiro;-64751.0;S
+42;20257;3.07;MIL;2012-01-01;2012-03-31;Resultado Antes dos Tributos sobre o Lucro;135536.0;S
+43;20257;3.08;MIL;2012-01-01;2012-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-39714.0;S
+44;20257;3.09;MIL;2012-01-01;2012-03-31;Resultado Líquido das Operações Continuadas;95822.0;S
+45;20257;3.10;MIL;2012-01-01;2012-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+47;20257;3.99;MIL;2012-01-01;2012-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+37;20257;3.02;MIL;2012-01-01;2012-03-31;Custo dos Bens e/ou Serviços Vendidos;-19627.0;S
+48;20257;3.01;MIL;2012-04-01;2012-06-30;Receita de Venda de Bens e/ou Serviços;216852.0;S
+59;20257;3.99;MIL;2012-04-01;2012-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+57;20257;3.10;MIL;2012-04-01;2012-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+56;20257;3.09;MIL;2012-04-01;2012-06-30;Resultado Líquido das Operações Continuadas;73946.0;S
+55;20257;3.08;MIL;2012-04-01;2012-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-6860.0;S
+54;20257;3.07;MIL;2012-04-01;2012-06-30;Resultado Antes dos Tributos sobre o Lucro;80806.0;S
+53;20257;3.06;MIL;2012-04-01;2012-06-30;Resultado Financeiro;-95716.0;S
+52;20257;3.05;MIL;2012-04-01;2012-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;176522.0;S
+51;20257;3.04;MIL;2012-04-01;2012-06-30;Despesas/Receitas Operacionais;-19265.0;S
+50;20257;3.03;MIL;2012-04-01;2012-06-30;Resultado Bruto;195787.0;S
+49;20257;3.02;MIL;2012-04-01;2012-06-30;Custo dos Bens e/ou Serviços Vendidos;-21065.0;S
+58;20257;3.11;MIL;2012-04-01;2012-06-30;Lucro/Prejuízo Consolidado do Período;73946.0;S
+60;20257;3.01;MIL;2012-07-01;2012-09-30;Receita de Venda de Bens e/ou Serviços;539614.0;S
+61;20257;3.02;MIL;2012-07-01;2012-09-30;Custo dos Bens e/ou Serviços Vendidos;-35129.0;S
+62;20257;3.03;MIL;2012-07-01;2012-09-30;Resultado Bruto;504485.0;S
+63;20257;3.04;MIL;2012-07-01;2012-09-30;Despesas/Receitas Operacionais;31275.0;S
+64;20257;3.05;MIL;2012-07-01;2012-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;535760.0;S
+65;20257;3.06;MIL;2012-07-01;2012-09-30;Resultado Financeiro;-59579.0;S
+66;20257;3.07;MIL;2012-07-01;2012-09-30;Resultado Antes dos Tributos sobre o Lucro;476181.0;S
+67;20257;3.08;MIL;2012-07-01;2012-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-176639.0;S
+68;20257;3.09;MIL;2012-07-01;2012-09-30;Resultado Líquido das Operações Continuadas;299542.0;S
+69;20257;3.10;MIL;2012-07-01;2012-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+70;20257;3.11;MIL;2012-07-01;2012-09-30;Lucro/Prejuízo Consolidado do Período;299542.0;S
+71;20257;3.99;MIL;2012-07-01;2012-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+518;20257;3.03;MIL;2012-10-01;2012-12-31;Resultado Bruto;199831.0;S
+525;20257;3.10;MIL;2012-10-01;2012-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+524;20257;3.09;MIL;2012-10-01;2012-12-31;Resultado Líquido das Operações Continuadas;119872.0;S
+523;20257;3.08;MIL;2012-10-01;2012-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;3455.0;S
+517;20257;3.02;MIL;2012-10-01;2012-12-31;Custo dos Bens e/ou Serviços Vendidos;-33002.0;S
+527;20257;3.99;MIL;2012-10-01;2012-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+521;20257;3.06;MIL;2012-10-01;2012-12-31;Resultado Financeiro;-58258.0;S
+520;20257;3.05;MIL;2012-10-01;2012-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;174675.0;S
+519;20257;3.04;MIL;2012-10-01;2012-12-31;Despesas/Receitas Operacionais;-25156.0;S
+526;20257;3.11;MIL;2012-10-01;2012-12-31;Lucro/Prejuízo Consolidado do Período;119872.0;S
+516;20257;3.01;MIL;2012-10-01;2012-12-31;Receita de Venda de Bens e/ou Serviços;232833.0;S
+522;20257;3.07;MIL;2012-10-01;2012-12-31;Resultado Antes dos Tributos sobre o Lucro;116417.0;S
+74;20257;3.03;MIL;2013-01-01;2013-03-31;Resultado Bruto;212251.0;S
+72;20257;3.01;MIL;2013-01-01;2013-03-31;Receita de Venda de Bens e/ou Serviços;263268.0;S
+75;20257;3.04;MIL;2013-01-01;2013-03-31;Despesas/Receitas Operacionais;-16442.0;S
+76;20257;3.05;MIL;2013-01-01;2013-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;195809.0;S
+77;20257;3.06;MIL;2013-01-01;2013-03-31;Resultado Financeiro;-63861.0;S
+78;20257;3.07;MIL;2013-01-01;2013-03-31;Resultado Antes dos Tributos sobre o Lucro;131948.0;S
+79;20257;3.08;MIL;2013-01-01;2013-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;39198.0;S
+80;20257;3.09;MIL;2013-01-01;2013-03-31;Resultado Líquido das Operações Continuadas;171146.0;S
+81;20257;3.10;MIL;2013-01-01;2013-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+82;20257;3.11;MIL;2013-01-01;2013-03-31;Lucro/Prejuízo Consolidado do Período;171146.0;S
+83;20257;3.99;MIL;2013-01-01;2013-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+73;20257;3.02;MIL;2013-01-01;2013-03-31;Custo dos Bens e/ou Serviços Vendidos;-51017.0;S
+95;20257;3.99;MIL;2013-04-01;2013-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+84;20257;3.01;MIL;2013-04-01;2013-06-30;Receita de Venda de Bens e/ou Serviços;263355.0;S
+86;20257;3.03;MIL;2013-04-01;2013-06-30;Resultado Bruto;215824.0;S
+87;20257;3.04;MIL;2013-04-01;2013-06-30;Despesas/Receitas Operacionais;-18092.0;S
+88;20257;3.05;MIL;2013-04-01;2013-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;197732.0;S
+89;20257;3.06;MIL;2013-04-01;2013-06-30;Resultado Financeiro;-91961.0;S
+91;20257;3.08;MIL;2013-04-01;2013-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-3368.0;S
+92;20257;3.09;MIL;2013-04-01;2013-06-30;Resultado Líquido das Operações Continuadas;102403.0;S
+93;20257;3.10;MIL;2013-04-01;2013-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+94;20257;3.11;MIL;2013-04-01;2013-06-30;Lucro/Prejuízo Consolidado do Período;102403.0;S
+85;20257;3.02;MIL;2013-04-01;2013-06-30;Custo dos Bens e/ou Serviços Vendidos;-47531.0;S
+90;20257;3.07;MIL;2013-04-01;2013-06-30;Resultado Antes dos Tributos sobre o Lucro;105771.0;S
+102;20257;3.07;MIL;2013-07-01;2013-09-30;Resultado Antes dos Tributos sobre o Lucro;596238.0;S
+106;20257;3.11;MIL;2013-07-01;2013-09-30;Lucro/Prejuízo Consolidado do Período;477947.0;S
+105;20257;3.10;MIL;2013-07-01;2013-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+104;20257;3.09;MIL;2013-07-01;2013-09-30;Resultado Líquido das Operações Continuadas;477947.0;S
+103;20257;3.08;MIL;2013-07-01;2013-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-118291.0;S
+101;20257;3.06;MIL;2013-07-01;2013-09-30;Resultado Financeiro;-98203.0;S
+100;20257;3.05;MIL;2013-07-01;2013-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;694441.0;S
+99;20257;3.04;MIL;2013-07-01;2013-09-30;Despesas/Receitas Operacionais;127411.0;S
+98;20257;3.03;MIL;2013-07-01;2013-09-30;Resultado Bruto;567030.0;S
+97;20257;3.02;MIL;2013-07-01;2013-09-30;Custo dos Bens e/ou Serviços Vendidos;-45014.0;S
+107;20257;3.99;MIL;2013-07-01;2013-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+96;20257;3.01;MIL;2013-07-01;2013-09-30;Receita de Venda de Bens e/ou Serviços;612044.0;S
+561;20257;3.10;MIL;2013-10-01;2013-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+560;20257;3.09;MIL;2013-10-01;2013-12-31;Resultado Líquido das Operações Continuadas;141356.0;S
+559;20257;3.08;MIL;2013-10-01;2013-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;23608.0;S
+558;20257;3.07;MIL;2013-10-01;2013-12-31;Resultado Antes dos Tributos sobre o Lucro;117748.0;S
+553;20257;3.02;MIL;2013-10-01;2013-12-31;Custo dos Bens e/ou Serviços Vendidos;-75021.0;S
+556;20257;3.05;MIL;2013-10-01;2013-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;233188.0;S
+555;20257;3.04;MIL;2013-10-01;2013-12-31;Despesas/Receitas Operacionais;-975.0;S
+554;20257;3.03;MIL;2013-10-01;2013-12-31;Resultado Bruto;234163.0;S
+552;20257;3.01;MIL;2013-10-01;2013-12-31;Receita de Venda de Bens e/ou Serviços;309184.0;S
+562;20257;3.11;MIL;2013-10-01;2013-12-31;Lucro/Prejuízo Consolidado do Período;141356.0;S
+557;20257;3.06;MIL;2013-10-01;2013-12-31;Resultado Financeiro;-115440.0;S
+563;20257;3.99;MIL;2013-10-01;2013-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+119;20257;3.99;MIL;2014-01-01;2014-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+117;20257;3.10;MIL;2014-01-01;2014-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+108;20257;3.01;MIL;2014-01-01;2014-03-31;Receita de Venda de Bens e/ou Serviços;267537.0;S
+109;20257;3.02;MIL;2014-01-01;2014-03-31;Custo dos Bens e/ou Serviços Vendidos;-37713.0;S
+110;20257;3.03;MIL;2014-01-01;2014-03-31;Resultado Bruto;229824.0;S
+111;20257;3.04;MIL;2014-01-01;2014-03-31;Despesas/Receitas Operacionais;7540.0;S
+112;20257;3.05;MIL;2014-01-01;2014-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;237364.0;S
+113;20257;3.06;MIL;2014-01-01;2014-03-31;Resultado Financeiro;-102262.0;S
+114;20257;3.07;MIL;2014-01-01;2014-03-31;Resultado Antes dos Tributos sobre o Lucro;135102.0;S
+115;20257;3.08;MIL;2014-01-01;2014-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-23596.0;S
+116;20257;3.09;MIL;2014-01-01;2014-03-31;Resultado Líquido das Operações Continuadas;111506.0;S
+118;20257;3.11;MIL;2014-01-01;2014-03-31;Lucro/Prejuízo Consolidado do Período;111506.0;S
+128;20257;3.09;MIL;2014-04-01;2014-06-30;Resultado Líquido das Operações Continuadas;80081.0;S
+127;20257;3.08;MIL;2014-04-01;2014-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-32140.0;S
+125;20257;3.06;MIL;2014-04-01;2014-06-30;Resultado Financeiro;-119696.0;S
+124;20257;3.05;MIL;2014-04-01;2014-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;231917.0;S
+131;20257;3.99;MIL;2014-04-01;2014-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+122;20257;3.03;MIL;2014-04-01;2014-06-30;Resultado Bruto;227619.0;S
+121;20257;3.02;MIL;2014-04-01;2014-06-30;Custo dos Bens e/ou Serviços Vendidos;-32106.0;S
+120;20257;3.01;MIL;2014-04-01;2014-06-30;Receita de Venda de Bens e/ou Serviços;259725.0;S
+129;20257;3.10;MIL;2014-04-01;2014-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+123;20257;3.04;MIL;2014-04-01;2014-06-30;Despesas/Receitas Operacionais;4298.0;S
+130;20257;3.11;MIL;2014-04-01;2014-06-30;Lucro/Prejuízo Consolidado do Período;80081.0;S
+126;20257;3.07;MIL;2014-04-01;2014-06-30;Resultado Antes dos Tributos sobre o Lucro;112221.0;S
+143;20257;3.99;MIL;2014-07-01;2014-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+132;20257;3.01;MIL;2014-07-01;2014-09-30;Receita de Venda de Bens e/ou Serviços;622103.0;S
+142;20257;3.11;MIL;2014-07-01;2014-09-30;Lucro/Prejuízo Consolidado do Período;497621.0;S
+141;20257;3.10;MIL;2014-07-01;2014-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+139;20257;3.08;MIL;2014-07-01;2014-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-155979.0;S
+138;20257;3.07;MIL;2014-07-01;2014-09-30;Resultado Antes dos Tributos sobre o Lucro;653600.0;S
+140;20257;3.09;MIL;2014-07-01;2014-09-30;Resultado Líquido das Operações Continuadas;497621.0;S
+136;20257;3.05;MIL;2014-07-01;2014-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;742364.0;S
+135;20257;3.04;MIL;2014-07-01;2014-09-30;Despesas/Receitas Operacionais;162978.0;S
+134;20257;3.03;MIL;2014-07-01;2014-09-30;Resultado Bruto;579386.0;S
+133;20257;3.02;MIL;2014-07-01;2014-09-30;Custo dos Bens e/ou Serviços Vendidos;-42717.0;S
+137;20257;3.06;MIL;2014-07-01;2014-09-30;Resultado Financeiro;-88764.0;S
+594;20257;3.07;MIL;2014-10-01;2014-12-31;Resultado Antes dos Tributos sobre o Lucro;200514.0;S
+597;20257;3.10;MIL;2014-10-01;2014-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+596;20257;3.09;MIL;2014-10-01;2014-12-31;Resultado Líquido das Operações Continuadas;215637.0;S
+595;20257;3.08;MIL;2014-10-01;2014-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;15123.0;S
+593;20257;3.06;MIL;2014-10-01;2014-12-31;Resultado Financeiro;-103390.0;S
+599;20257;3.99;MIL;2014-10-01;2014-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+591;20257;3.04;MIL;2014-10-01;2014-12-31;Despesas/Receitas Operacionais;15814.0;S
+590;20257;3.03;MIL;2014-10-01;2014-12-31;Resultado Bruto;288090.0;S
+589;20257;3.02;MIL;2014-10-01;2014-12-31;Custo dos Bens e/ou Serviços Vendidos;-58349.0;S
+588;20257;3.01;MIL;2014-10-01;2014-12-31;Receita de Venda de Bens e/ou Serviços;346439.0;S
+592;20257;3.05;MIL;2014-10-01;2014-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;303904.0;S
+598;20257;3.11;MIL;2014-10-01;2014-12-31;Lucro/Prejuízo Consolidado do Período;215637.0;S
+149;20257;3.06;MIL;2015-01-01;2015-03-31;Resultado Financeiro;-137391.0;S
+146;20257;3.03;MIL;2015-01-01;2015-03-31;Resultado Bruto;320647.0;S
+144;20257;3.01;MIL;2015-01-01;2015-03-31;Receita de Venda de Bens e/ou Serviços;342526.0;S
+155;20257;3.99;MIL;2015-01-01;2015-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+154;20257;3.11;MIL;2015-01-01;2015-03-31;Lucro/Prejuízo Consolidado do Período;201933.0;S
+153;20257;3.10;MIL;2015-01-01;2015-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+147;20257;3.04;MIL;2015-01-01;2015-03-31;Despesas/Receitas Operacionais;36167.0;S
+151;20257;3.08;MIL;2015-01-01;2015-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-17490.0;S
+150;20257;3.07;MIL;2015-01-01;2015-03-31;Resultado Antes dos Tributos sobre o Lucro;219423.0;S
+145;20257;3.02;MIL;2015-01-01;2015-03-31;Custo dos Bens e/ou Serviços Vendidos;-21879.0;S
+148;20257;3.05;MIL;2015-01-01;2015-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;356814.0;S
+152;20257;3.09;MIL;2015-01-01;2015-03-31;Resultado Líquido das Operações Continuadas;201933.0;S
+156;20257;3.01;MIL;2015-04-01;2015-06-30;Receita de Venda de Bens e/ou Serviços;392192.0;S
+167;20257;3.99;MIL;2015-04-01;2015-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+158;20257;3.03;MIL;2015-04-01;2015-06-30;Resultado Bruto;366586.0;S
+159;20257;3.04;MIL;2015-04-01;2015-06-30;Despesas/Receitas Operacionais;34943.0;S
+160;20257;3.05;MIL;2015-04-01;2015-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;401529.0;S
+162;20257;3.07;MIL;2015-04-01;2015-06-30;Resultado Antes dos Tributos sobre o Lucro;285982.0;S
+163;20257;3.08;MIL;2015-04-01;2015-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-45461.0;S
+164;20257;3.09;MIL;2015-04-01;2015-06-30;Resultado Líquido das Operações Continuadas;240521.0;S
+165;20257;3.10;MIL;2015-04-01;2015-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+166;20257;3.11;MIL;2015-04-01;2015-06-30;Lucro/Prejuízo Consolidado do Período;240521.0;S
+157;20257;3.02;MIL;2015-04-01;2015-06-30;Custo dos Bens e/ou Serviços Vendidos;-25606.0;S
+161;20257;3.06;MIL;2015-04-01;2015-06-30;Resultado Financeiro;-115547.0;S
+170;20257;3.03;MIL;2015-07-01;2015-09-30;Resultado Bruto;310992.0;S
+169;20257;3.02;MIL;2015-07-01;2015-09-30;Custo dos Bens e/ou Serviços Vendidos;-37245.0;S
+179;20257;3.99;MIL;2015-07-01;2015-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+178;20257;3.11;MIL;2015-07-01;2015-09-30;Lucro/Prejuízo Consolidado do Período;158993.0;S
+177;20257;3.10;MIL;2015-07-01;2015-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+176;20257;3.09;MIL;2015-07-01;2015-09-30;Resultado Líquido das Operações Continuadas;158993.0;S
+168;20257;3.01;MIL;2015-07-01;2015-09-30;Receita de Venda de Bens e/ou Serviços;348237.0;S
+174;20257;3.07;MIL;2015-07-01;2015-09-30;Resultado Antes dos Tributos sobre o Lucro;215850.0;S
+173;20257;3.06;MIL;2015-07-01;2015-09-30;Resultado Financeiro;-96736.0;S
+172;20257;3.05;MIL;2015-07-01;2015-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;312586.0;S
+171;20257;3.04;MIL;2015-07-01;2015-09-30;Despesas/Receitas Operacionais;1594.0;S
+175;20257;3.08;MIL;2015-07-01;2015-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-56857.0;S
+625;20257;3.02;MIL;2015-10-01;2015-12-31;Custo dos Bens e/ou Serviços Vendidos;-33757.0;S
+626;20257;3.03;MIL;2015-10-01;2015-12-31;Resultado Bruto;425753.0;S
+627;20257;3.04;MIL;2015-10-01;2015-12-31;Despesas/Receitas Operacionais;40869.0;S
+628;20257;3.05;MIL;2015-10-01;2015-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;466622.0;S
+629;20257;3.06;MIL;2015-10-01;2015-12-31;Resultado Financeiro;-118507.0;S
+630;20257;3.07;MIL;2015-10-01;2015-12-31;Resultado Antes dos Tributos sobre o Lucro;348115.0;S
+631;20257;3.08;MIL;2015-10-01;2015-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-40139.0;S
+632;20257;3.09;MIL;2015-10-01;2015-12-31;Resultado Líquido das Operações Continuadas;307976.0;S
+633;20257;3.10;MIL;2015-10-01;2015-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+624;20257;3.01;MIL;2015-10-01;2015-12-31;Receita de Venda de Bens e/ou Serviços;459510.0;S
+635;20257;3.99;MIL;2015-10-01;2015-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+634;20257;3.11;MIL;2015-10-01;2015-12-31;Lucro/Prejuízo Consolidado do Período;307976.0;S
+191;20257;3.99;MIL;2016-01-01;2016-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+180;20257;3.01;MIL;2016-01-01;2016-03-31;Receita de Venda de Bens e/ou Serviços;404973.0;S
+181;20257;3.02;MIL;2016-01-01;2016-03-31;Custo dos Bens e/ou Serviços Vendidos;-14568.0;S
+182;20257;3.03;MIL;2016-01-01;2016-03-31;Resultado Bruto;390405.0;S
+183;20257;3.04;MIL;2016-01-01;2016-03-31;Despesas/Receitas Operacionais;51055.0;S
+184;20257;3.05;MIL;2016-01-01;2016-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;441460.0;S
+185;20257;3.06;MIL;2016-01-01;2016-03-31;Resultado Financeiro;-133787.0;S
+186;20257;3.07;MIL;2016-01-01;2016-03-31;Resultado Antes dos Tributos sobre o Lucro;307673.0;S
+187;20257;3.08;MIL;2016-01-01;2016-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-53988.0;S
+188;20257;3.09;MIL;2016-01-01;2016-03-31;Resultado Líquido das Operações Continuadas;253685.0;S
+189;20257;3.10;MIL;2016-01-01;2016-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+190;20257;3.11;MIL;2016-01-01;2016-03-31;Lucro/Prejuízo Consolidado do Período;253685.0;S
+197;20257;3.06;MIL;2016-04-01;2016-06-30;Resultado Financeiro;-99867.0;S
+200;20257;3.09;MIL;2016-04-01;2016-06-30;Resultado Líquido das Operações Continuadas;207207.0;S
+192;20257;3.01;MIL;2016-04-01;2016-06-30;Receita de Venda de Bens e/ou Serviços;323357.0;S
+193;20257;3.02;MIL;2016-04-01;2016-06-30;Custo dos Bens e/ou Serviços Vendidos;-21353.0;S
+194;20257;3.03;MIL;2016-04-01;2016-06-30;Resultado Bruto;302004.0;S
+195;20257;3.04;MIL;2016-04-01;2016-06-30;Despesas/Receitas Operacionais;17847.0;S
+196;20257;3.05;MIL;2016-04-01;2016-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;319851.0;S
+198;20257;3.07;MIL;2016-04-01;2016-06-30;Resultado Antes dos Tributos sobre o Lucro;219984.0;S
+199;20257;3.08;MIL;2016-04-01;2016-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-12777.0;S
+201;20257;3.10;MIL;2016-04-01;2016-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+202;20257;3.11;MIL;2016-04-01;2016-06-30;Lucro/Prejuízo Consolidado do Período;207207.0;S
+203;20257;3.99;MIL;2016-04-01;2016-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+212;20257;3.09;MIL;2016-07-01;2016-09-30;Resultado Líquido das Operações Continuadas;217556.0;S
+213;20257;3.10;MIL;2016-07-01;2016-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+214;20257;3.11;MIL;2016-07-01;2016-09-30;Lucro/Prejuízo Consolidado do Período;217556.0;S
+211;20257;3.08;MIL;2016-07-01;2016-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-40800.0;S
+215;20257;3.99;MIL;2016-07-01;2016-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+210;20257;3.07;MIL;2016-07-01;2016-09-30;Resultado Antes dos Tributos sobre o Lucro;258356.0;S
+207;20257;3.04;MIL;2016-07-01;2016-09-30;Despesas/Receitas Operacionais;36537.0;S
+208;20257;3.05;MIL;2016-07-01;2016-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;351317.0;S
+206;20257;3.03;MIL;2016-07-01;2016-09-30;Resultado Bruto;314780.0;S
+205;20257;3.02;MIL;2016-07-01;2016-09-30;Custo dos Bens e/ou Serviços Vendidos;-49831.0;S
+204;20257;3.01;MIL;2016-07-01;2016-09-30;Receita de Venda de Bens e/ou Serviços;364611.0;S
+209;20257;3.06;MIL;2016-07-01;2016-09-30;Resultado Financeiro;-92961.0;S
+661;20257;3.02;MIL;2016-10-01;2016-12-31;Custo dos Bens e/ou Serviços Vendidos;-63444.0;S
+668;20257;3.09;MIL;2016-10-01;2016-12-31;Resultado Líquido das Operações Continuadas;183618.0;S
+667;20257;3.08;MIL;2016-10-01;2016-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-707.0;S
+666;20257;3.07;MIL;2016-10-01;2016-12-31;Resultado Antes dos Tributos sobre o Lucro;184325.0;S
+665;20257;3.06;MIL;2016-10-01;2016-12-31;Resultado Financeiro;-74274.0;S
+664;20257;3.05;MIL;2016-10-01;2016-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;258599.0;S
+663;20257;3.04;MIL;2016-10-01;2016-12-31;Despesas/Receitas Operacionais;23910.0;S
+662;20257;3.03;MIL;2016-10-01;2016-12-31;Resultado Bruto;234689.0;S
+660;20257;3.01;MIL;2016-10-01;2016-12-31;Receita de Venda de Bens e/ou Serviços;298133.0;S
+671;20257;3.99;MIL;2016-10-01;2016-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+669;20257;3.10;MIL;2016-10-01;2016-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+670;20257;3.11;MIL;2016-10-01;2016-12-31;Lucro/Prejuízo Consolidado do Período;183618.0;S
+226;20257;3.11;MIL;2017-01-01;2017-03-31;Lucro/Prejuízo Consolidado do Período;201367.0;S
+227;20257;3.99;MIL;2017-01-01;2017-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+224;20257;3.09;MIL;2017-01-01;2017-03-31;Resultado Líquido das Operações Continuadas;201367.0;S
+223;20257;3.08;MIL;2017-01-01;2017-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-46837.0;S
+222;20257;3.07;MIL;2017-01-01;2017-03-31;Resultado Antes dos Tributos sobre o Lucro;248204.0;S
+220;20257;3.05;MIL;2017-01-01;2017-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;319100.0;S
+219;20257;3.04;MIL;2017-01-01;2017-03-31;Despesas/Receitas Operacionais;24761.0;S
+218;20257;3.03;MIL;2017-01-01;2017-03-31;Resultado Bruto;294339.0;S
+217;20257;3.02;MIL;2017-01-01;2017-03-31;Custo dos Bens e/ou Serviços Vendidos;-37981.0;S
+216;20257;3.01;MIL;2017-01-01;2017-03-31;Receita de Venda de Bens e/ou Serviços;332320.0;S
+225;20257;3.10;MIL;2017-01-01;2017-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+221;20257;3.06;MIL;2017-01-01;2017-03-31;Resultado Financeiro;-70896.0;S
+239;20257;3.99;MIL;2017-04-01;2017-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+231;20257;3.04;MIL;2017-04-01;2017-06-30;Despesas/Receitas Operacionais;-25992.0;S
+232;20257;3.05;MIL;2017-04-01;2017-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;117584.0;S
+233;20257;3.06;MIL;2017-04-01;2017-06-30;Resultado Financeiro;-53062.0;S
+234;20257;3.07;MIL;2017-04-01;2017-06-30;Resultado Antes dos Tributos sobre o Lucro;64522.0;S
+235;20257;3.08;MIL;2017-04-01;2017-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;7512.0;S
+236;20257;3.09;MIL;2017-04-01;2017-06-30;Resultado Líquido das Operações Continuadas;72034.0;S
+237;20257;3.10;MIL;2017-04-01;2017-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+238;20257;3.11;MIL;2017-04-01;2017-06-30;Lucro/Prejuízo Consolidado do Período;72034.0;S
+228;20257;3.01;MIL;2017-04-01;2017-06-30;Receita de Venda de Bens e/ou Serviços;169271.0;S
+229;20257;3.02;MIL;2017-04-01;2017-06-30;Custo dos Bens e/ou Serviços Vendidos;-25695.0;S
+230;20257;3.03;MIL;2017-04-01;2017-06-30;Resultado Bruto;143576.0;S
+241;20257;3.02;MIL;2017-07-01;2017-09-30;Custo dos Bens e/ou Serviços Vendidos;-47237.0;S
+251;20257;3.99;MIL;2017-07-01;2017-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+250;20257;3.11;MIL;2017-07-01;2017-09-30;Lucro/Prejuízo Consolidado do Período;97325.0;S
+249;20257;3.10;MIL;2017-07-01;2017-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+248;20257;3.09;MIL;2017-07-01;2017-09-30;Resultado Líquido das Operações Continuadas;97325.0;S
+247;20257;3.08;MIL;2017-07-01;2017-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-3704.0;S
+246;20257;3.07;MIL;2017-07-01;2017-09-30;Resultado Antes dos Tributos sobre o Lucro;101029.0;S
+245;20257;3.06;MIL;2017-07-01;2017-09-30;Resultado Financeiro;-47384.0;S
+244;20257;3.05;MIL;2017-07-01;2017-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;148413.0;S
+240;20257;3.01;MIL;2017-07-01;2017-09-30;Receita de Venda de Bens e/ou Serviços;214899.0;S
+242;20257;3.03;MIL;2017-07-01;2017-09-30;Resultado Bruto;167662.0;S
+243;20257;3.04;MIL;2017-07-01;2017-09-30;Despesas/Receitas Operacionais;-19249.0;S
+696;20257;3.01;MIL;2017-10-01;2017-12-31;Receita de Venda de Bens e/ou Serviços;360569.0;S
+707;20257;3.99;MIL;2017-10-01;2017-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+706;20257;3.11;MIL;2017-10-01;2017-12-31;Lucro/Prejuízo Consolidado do Período;277559.0;S
+705;20257;3.10;MIL;2017-10-01;2017-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+704;20257;3.09;MIL;2017-10-01;2017-12-31;Resultado Líquido das Operações Continuadas;277559.0;S
+697;20257;3.02;MIL;2017-10-01;2017-12-31;Custo dos Bens e/ou Serviços Vendidos;-86864.0;S
+702;20257;3.07;MIL;2017-10-01;2017-12-31;Resultado Antes dos Tributos sobre o Lucro;289909.0;S
+701;20257;3.06;MIL;2017-10-01;2017-12-31;Resultado Financeiro;-51254.0;S
+700;20257;3.05;MIL;2017-10-01;2017-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;341163.0;S
+699;20257;3.04;MIL;2017-10-01;2017-12-31;Despesas/Receitas Operacionais;67458.0;S
+698;20257;3.03;MIL;2017-10-01;2017-12-31;Resultado Bruto;273705.0;S
+703;20257;3.08;MIL;2017-10-01;2017-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-12350.0;S
+262;20257;3.11;MIL;2018-01-01;2018-03-31;Lucro/Prejuízo Consolidado do Período;217277.0;S
+261;20257;3.10;MIL;2018-01-01;2018-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+260;20257;3.09;MIL;2018-01-01;2018-03-31;Resultado Líquido das Operações Continuadas;217277.0;S
+259;20257;3.08;MIL;2018-01-01;2018-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-44901.0;S
+258;20257;3.07;MIL;2018-01-01;2018-03-31;Resultado Antes dos Tributos sobre o Lucro;262178.0;S
+257;20257;3.06;MIL;2018-01-01;2018-03-31;Resultado Financeiro;-51948.0;S
+256;20257;3.05;MIL;2018-01-01;2018-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;314126.0;S
+255;20257;3.04;MIL;2018-01-01;2018-03-31;Despesas/Receitas Operacionais;32473.0;S
+254;20257;3.03;MIL;2018-01-01;2018-03-31;Resultado Bruto;281653.0;S
+263;20257;3.99;MIL;2018-01-01;2018-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+253;20257;3.02;MIL;2018-01-01;2018-03-31;Custo dos Bens e/ou Serviços Vendidos;-35052.0;S
+252;20257;3.01;MIL;2018-01-01;2018-03-31;Receita de Venda de Bens e/ou Serviços;316705.0;S
+266;20257;3.03;MIL;2018-04-01;2018-06-30;Resultado Bruto;303498.0;S
+264;20257;3.01;MIL;2018-04-01;2018-06-30;Receita de Venda de Bens e/ou Serviços;351238.0;S
+265;20257;3.02;MIL;2018-04-01;2018-06-30;Custo dos Bens e/ou Serviços Vendidos;-47740.0;S
+274;20257;3.11;MIL;2018-04-01;2018-06-30;Lucro/Prejuízo Consolidado do Período;259251.0;S
+273;20257;3.10;MIL;2018-04-01;2018-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+275;20257;3.99;MIL;2018-04-01;2018-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+271;20257;3.08;MIL;2018-04-01;2018-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-30520.0;S
+270;20257;3.07;MIL;2018-04-01;2018-06-30;Resultado Antes dos Tributos sobre o Lucro;289771.0;S
+269;20257;3.06;MIL;2018-04-01;2018-06-30;Resultado Financeiro;-54713.0;S
+268;20257;3.05;MIL;2018-04-01;2018-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;344484.0;S
+272;20257;3.09;MIL;2018-04-01;2018-06-30;Resultado Líquido das Operações Continuadas;259251.0;S
+267;20257;3.04;MIL;2018-04-01;2018-06-30;Despesas/Receitas Operacionais;40986.0;S
+281;20257;3.06;MIL;2018-07-01;2018-09-30;Resultado Financeiro;-63078.0;S
+277;20257;3.02;MIL;2018-07-01;2018-09-30;Custo dos Bens e/ou Serviços Vendidos;-80865.0;S
+278;20257;3.03;MIL;2018-07-01;2018-09-30;Resultado Bruto;322312.0;S
+279;20257;3.04;MIL;2018-07-01;2018-09-30;Despesas/Receitas Operacionais;47480.0;S
+280;20257;3.05;MIL;2018-07-01;2018-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;369792.0;S
+276;20257;3.01;MIL;2018-07-01;2018-09-30;Receita de Venda de Bens e/ou Serviços;403177.0;S
+284;20257;3.09;MIL;2018-07-01;2018-09-30;Resultado Líquido das Operações Continuadas;267719.0;S
+285;20257;3.10;MIL;2018-07-01;2018-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+286;20257;3.11;MIL;2018-07-01;2018-09-30;Lucro/Prejuízo Consolidado do Período;267719.0;S
+287;20257;3.99;MIL;2018-07-01;2018-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+282;20257;3.07;MIL;2018-07-01;2018-09-30;Resultado Antes dos Tributos sobre o Lucro;306714.0;S
+283;20257;3.08;MIL;2018-07-01;2018-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-38995.0;S
+733;20257;3.02;MIL;2018-10-01;2018-12-31;Custo dos Bens e/ou Serviços Vendidos;-198699.0;S
+734;20257;3.03;MIL;2018-10-01;2018-12-31;Resultado Bruto;365418.0;S
+735;20257;3.04;MIL;2018-10-01;2018-12-31;Despesas/Receitas Operacionais;36035.0;S
+736;20257;3.05;MIL;2018-10-01;2018-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;401453.0;S
+737;20257;3.06;MIL;2018-10-01;2018-12-31;Resultado Financeiro;-41448.0;S
+738;20257;3.07;MIL;2018-10-01;2018-12-31;Resultado Antes dos Tributos sobre o Lucro;360005.0;S
+739;20257;3.08;MIL;2018-10-01;2018-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-32947.0;S
+740;20257;3.09;MIL;2018-10-01;2018-12-31;Resultado Líquido das Operações Continuadas;327058.0;S
+741;20257;3.10;MIL;2018-10-01;2018-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+742;20257;3.11;MIL;2018-10-01;2018-12-31;Lucro/Prejuízo Consolidado do Período;327058.0;S
+743;20257;3.99;MIL;2018-10-01;2018-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+732;20257;3.01;MIL;2018-10-01;2018-12-31;Receita de Venda de Bens e/ou Serviços;564117.0;S
+298;20257;3.11;MIL;2019-01-01;2019-03-31;Lucro/Prejuízo Consolidado do Período;159582.0;S
+297;20257;3.10;MIL;2019-01-01;2019-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+296;20257;3.09;MIL;2019-01-01;2019-03-31;Resultado Líquido das Operações Continuadas;159582.0;S
+295;20257;3.08;MIL;2019-01-01;2019-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-30374.0;S
+294;20257;3.07;MIL;2019-01-01;2019-03-31;Resultado Antes dos Tributos sobre o Lucro;189956.0;S
+293;20257;3.06;MIL;2019-01-01;2019-03-31;Resultado Financeiro;-64178.0;S
+292;20257;3.05;MIL;2019-01-01;2019-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;254134.0;S
+291;20257;3.04;MIL;2019-01-01;2019-03-31;Despesas/Receitas Operacionais;-6935.0;S
+290;20257;3.03;MIL;2019-01-01;2019-03-31;Resultado Bruto;261069.0;S
+289;20257;3.02;MIL;2019-01-01;2019-03-31;Custo dos Bens e/ou Serviços Vendidos;-81181.0;S
+288;20257;3.01;MIL;2019-01-01;2019-03-31;Receita de Venda de Bens e/ou Serviços;342250.0;S
+299;20257;3.99;MIL;2019-01-01;2019-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+311;20257;3.99;MIL;2019-04-01;2019-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+310;20257;3.11;MIL;2019-04-01;2019-06-30;Lucro/Prejuízo Consolidado do Período;307424.0;S
+302;20257;3.03;MIL;2019-04-01;2019-06-30;Resultado Bruto;339217.0;S
+301;20257;3.02;MIL;2019-04-01;2019-06-30;Custo dos Bens e/ou Serviços Vendidos;-88281.0;S
+300;20257;3.01;MIL;2019-04-01;2019-06-30;Receita de Venda de Bens e/ou Serviços;427498.0;S
+305;20257;3.06;MIL;2019-04-01;2019-06-30;Resultado Financeiro;-71596.0;S
+306;20257;3.07;MIL;2019-04-01;2019-06-30;Resultado Antes dos Tributos sobre o Lucro;347495.0;S
+307;20257;3.08;MIL;2019-04-01;2019-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-40071.0;S
+308;20257;3.09;MIL;2019-04-01;2019-06-30;Resultado Líquido das Operações Continuadas;307424.0;S
+309;20257;3.10;MIL;2019-04-01;2019-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+303;20257;3.04;MIL;2019-04-01;2019-06-30;Despesas/Receitas Operacionais;79874.0;S
+304;20257;3.05;MIL;2019-04-01;2019-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;419091.0;S
+320;20257;3.09;MIL;2019-07-01;2019-09-30;Resultado Líquido das Operações Continuadas;357840.0;S
+321;20257;3.10;MIL;2019-07-01;2019-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+323;20257;3.99;MIL;2019-07-01;2019-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+322;20257;3.11;MIL;2019-07-01;2019-09-30;Lucro/Prejuízo Consolidado do Período;357840.0;S
+313;20257;3.02;MIL;2019-07-01;2019-09-30;Custo dos Bens e/ou Serviços Vendidos;-193100.0;S
+314;20257;3.03;MIL;2019-07-01;2019-09-30;Resultado Bruto;404653.0;S
+312;20257;3.01;MIL;2019-07-01;2019-09-30;Receita de Venda de Bens e/ou Serviços;597753.0;S
+316;20257;3.05;MIL;2019-07-01;2019-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;452565.0;S
+317;20257;3.06;MIL;2019-07-01;2019-09-30;Resultado Financeiro;-48808.0;S
+318;20257;3.07;MIL;2019-07-01;2019-09-30;Resultado Antes dos Tributos sobre o Lucro;403757.0;S
+319;20257;3.08;MIL;2019-07-01;2019-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-45917.0;S
+315;20257;3.04;MIL;2019-07-01;2019-09-30;Despesas/Receitas Operacionais;47912.0;S
+773;20257;3.06;MIL;2019-10-01;2019-12-31;Resultado Financeiro;-74215.0;S
+768;20257;3.01;MIL;2019-10-01;2019-12-31;Receita de Venda de Bens e/ou Serviços;427458.0;S
+769;20257;3.02;MIL;2019-10-01;2019-12-31;Custo dos Bens e/ou Serviços Vendidos;-211456.0;S
+771;20257;3.04;MIL;2019-10-01;2019-12-31;Despesas/Receitas Operacionais;63202.0;S
+772;20257;3.05;MIL;2019-10-01;2019-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;279204.0;S
+774;20257;3.07;MIL;2019-10-01;2019-12-31;Resultado Antes dos Tributos sobre o Lucro;204989.0;S
+778;20257;3.11;MIL;2019-10-01;2019-12-31;Lucro/Prejuízo Consolidado do Período;177469.0;S
+776;20257;3.09;MIL;2019-10-01;2019-12-31;Resultado Líquido das Operações Continuadas;177469.0;S
+777;20257;3.10;MIL;2019-10-01;2019-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+779;20257;3.99;MIL;2019-10-01;2019-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+775;20257;3.08;MIL;2019-10-01;2019-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-27520.0;S
+770;20257;3.03;MIL;2019-10-01;2019-12-31;Resultado Bruto;216002.0;S
+326;20257;3.03;MIL;2020-01-01;2020-03-31;Resultado Bruto;471090.0;S
+327;20257;3.04;MIL;2020-01-01;2020-03-31;Despesas/Receitas Operacionais;108478.0;S
+325;20257;3.02;MIL;2020-01-01;2020-03-31;Custo dos Bens e/ou Serviços Vendidos;-219327.0;S
+324;20257;3.01;MIL;2020-01-01;2020-03-31;Receita de Venda de Bens e/ou Serviços;690417.0;S
+328;20257;3.05;MIL;2020-01-01;2020-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;579568.0;S
+333;20257;3.10;MIL;2020-01-01;2020-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+330;20257;3.07;MIL;2020-01-01;2020-03-31;Resultado Antes dos Tributos sobre o Lucro;444709.0;S
+329;20257;3.06;MIL;2020-01-01;2020-03-31;Resultado Financeiro;-134859.0;S
+334;20257;3.11;MIL;2020-01-01;2020-03-31;Lucro/Prejuízo Consolidado do Período;364187.0;S
+331;20257;3.08;MIL;2020-01-01;2020-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-80522.0;S
+332;20257;3.09;MIL;2020-01-01;2020-03-31;Resultado Líquido das Operações Continuadas;364187.0;S
+335;20257;3.99;MIL;2020-01-01;2020-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+337;20257;3.02;MIL;2020-04-01;2020-06-30;Custo dos Bens e/ou Serviços Vendidos;-282363.0;S
+336;20257;3.01;MIL;2020-04-01;2020-06-30;Receita de Venda de Bens e/ou Serviços;755654.0;S
+347;20257;3.99;MIL;2020-04-01;2020-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+345;20257;3.10;MIL;2020-04-01;2020-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+344;20257;3.09;MIL;2020-04-01;2020-06-30;Resultado Líquido das Operações Continuadas;437848.0;S
+346;20257;3.11;MIL;2020-04-01;2020-06-30;Lucro/Prejuízo Consolidado do Período;437848.0;S
+342;20257;3.07;MIL;2020-04-01;2020-06-30;Resultado Antes dos Tributos sobre o Lucro;533370.0;S
+341;20257;3.06;MIL;2020-04-01;2020-06-30;Resultado Financeiro;-28457.0;S
+340;20257;3.05;MIL;2020-04-01;2020-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;561827.0;S
+339;20257;3.04;MIL;2020-04-01;2020-06-30;Despesas/Receitas Operacionais;88536.0;S
+338;20257;3.03;MIL;2020-04-01;2020-06-30;Resultado Bruto;473291.0;S
+343;20257;3.08;MIL;2020-04-01;2020-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-95522.0;S
+358;20257;3.11;MIL;2020-07-01;2020-09-30;Lucro/Prejuízo Consolidado do Período;631914.0;S
+357;20257;3.10;MIL;2020-07-01;2020-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+356;20257;3.09;MIL;2020-07-01;2020-09-30;Resultado Líquido das Operações Continuadas;631914.0;S
+355;20257;3.08;MIL;2020-07-01;2020-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-109782.0;S
+354;20257;3.07;MIL;2020-07-01;2020-09-30;Resultado Antes dos Tributos sobre o Lucro;741696.0;S
+353;20257;3.06;MIL;2020-07-01;2020-09-30;Resultado Financeiro;-119288.0;S
+352;20257;3.05;MIL;2020-07-01;2020-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;860984.0;S
+351;20257;3.04;MIL;2020-07-01;2020-09-30;Despesas/Receitas Operacionais;173513.0;S
+350;20257;3.03;MIL;2020-07-01;2020-09-30;Resultado Bruto;687471.0;S
+359;20257;3.99;MIL;2020-07-01;2020-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+348;20257;3.01;MIL;2020-07-01;2020-09-30;Receita de Venda de Bens e/ou Serviços;941221.0;S
+349;20257;3.02;MIL;2020-07-01;2020-09-30;Custo dos Bens e/ou Serviços Vendidos;-253750.0;S
+814;20257;3.11;MIL;2020-10-01;2020-12-31;Lucro/Prejuízo Consolidado do Período;828978.0;S
+813;20257;3.10;MIL;2020-10-01;2020-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+812;20257;3.09;MIL;2020-10-01;2020-12-31;Resultado Líquido das Operações Continuadas;828978.0;S
+811;20257;3.08;MIL;2020-10-01;2020-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-170429.0;S
+810;20257;3.07;MIL;2020-10-01;2020-12-31;Resultado Antes dos Tributos sobre o Lucro;999407.0;S
+804;20257;3.01;MIL;2020-10-01;2020-12-31;Receita de Venda de Bens e/ou Serviços;1173994.0;S
+808;20257;3.05;MIL;2020-10-01;2020-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;1192326.0;S
+809;20257;3.06;MIL;2020-10-01;2020-12-31;Resultado Financeiro;-192919.0;S
+805;20257;3.02;MIL;2020-10-01;2020-12-31;Custo dos Bens e/ou Serviços Vendidos;-292539.0;S
+815;20257;3.99;MIL;2020-10-01;2020-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+807;20257;3.04;MIL;2020-10-01;2020-12-31;Despesas/Receitas Operacionais;310871.0;S
+806;20257;3.03;MIL;2020-10-01;2020-12-31;Resultado Bruto;881455.0;S
+371;20257;3.99;MIL;2021-01-01;2021-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+360;20257;3.01;MIL;2021-01-01;2021-03-31;Receita de Venda de Bens e/ou Serviços;908449.0;S
+361;20257;3.02;MIL;2021-01-01;2021-03-31;Custo dos Bens e/ou Serviços Vendidos;-197049.0;S
+362;20257;3.03;MIL;2021-01-01;2021-03-31;Resultado Bruto;711400.0;S
+364;20257;3.05;MIL;2021-01-01;2021-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;874044.0;S
+366;20257;3.07;MIL;2021-01-01;2021-03-31;Resultado Antes dos Tributos sobre o Lucro;690946.0;S
+367;20257;3.08;MIL;2021-01-01;2021-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-135094.0;S
+368;20257;3.09;MIL;2021-01-01;2021-03-31;Resultado Líquido das Operações Continuadas;555852.0;S
+369;20257;3.10;MIL;2021-01-01;2021-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+370;20257;3.11;MIL;2021-01-01;2021-03-31;Lucro/Prejuízo Consolidado do Período;555852.0;S
+363;20257;3.04;MIL;2021-01-01;2021-03-31;Despesas/Receitas Operacionais;162644.0;S
+365;20257;3.06;MIL;2021-01-01;2021-03-31;Resultado Financeiro;-183098.0;S
+383;20257;3.99;MIL;2021-04-01;2021-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+372;20257;3.01;MIL;2021-04-01;2021-06-30;Receita de Venda de Bens e/ou Serviços;904321.0;S
+373;20257;3.02;MIL;2021-04-01;2021-06-30;Custo dos Bens e/ou Serviços Vendidos;-131497.0;S
+374;20257;3.03;MIL;2021-04-01;2021-06-30;Resultado Bruto;772824.0;S
+375;20257;3.04;MIL;2021-04-01;2021-06-30;Despesas/Receitas Operacionais;242225.0;S
+376;20257;3.05;MIL;2021-04-01;2021-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;1015049.0;S
+378;20257;3.07;MIL;2021-04-01;2021-06-30;Resultado Antes dos Tributos sobre o Lucro;841911.0;S
+379;20257;3.08;MIL;2021-04-01;2021-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-144016.0;S
+380;20257;3.09;MIL;2021-04-01;2021-06-30;Resultado Líquido das Operações Continuadas;697895.0;S
+381;20257;3.10;MIL;2021-04-01;2021-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+382;20257;3.11;MIL;2021-04-01;2021-06-30;Lucro/Prejuízo Consolidado do Período;697895.0;S
+377;20257;3.06;MIL;2021-04-01;2021-06-30;Resultado Financeiro;-173138.0;S
+385;20257;3.02;MIL;2021-07-01;2021-09-30;Custo dos Bens e/ou Serviços Vendidos;-195024.0;S
+395;20257;3.99;MIL;2021-07-01;2021-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+393;20257;3.10;MIL;2021-07-01;2021-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+392;20257;3.09;MIL;2021-07-01;2021-09-30;Resultado Líquido das Operações Continuadas;536889.0;S
+384;20257;3.01;MIL;2021-07-01;2021-09-30;Receita de Venda de Bens e/ou Serviços;942321.0;S
+394;20257;3.11;MIL;2021-07-01;2021-09-30;Lucro/Prejuízo Consolidado do Período;536889.0;S
+391;20257;3.08;MIL;2021-07-01;2021-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-88965.0;S
+389;20257;3.06;MIL;2021-07-01;2021-09-30;Resultado Financeiro;-230358.0;S
+388;20257;3.05;MIL;2021-07-01;2021-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;856212.0;S
+387;20257;3.04;MIL;2021-07-01;2021-09-30;Despesas/Receitas Operacionais;108915.0;S
+386;20257;3.03;MIL;2021-07-01;2021-09-30;Resultado Bruto;747297.0;S
+390;20257;3.07;MIL;2021-07-01;2021-09-30;Resultado Antes dos Tributos sobre o Lucro;625854.0;S
+851;20257;3.99;MIL;2021-10-01;2021-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+850;20257;3.11;MIL;2021-10-01;2021-12-31;Lucro/Prejuízo Consolidado do Período;423078.0;S
+849;20257;3.10;MIL;2021-10-01;2021-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+848;20257;3.09;MIL;2021-10-01;2021-12-31;Resultado Líquido das Operações Continuadas;423078.0;S
+847;20257;3.08;MIL;2021-10-01;2021-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-43355.0;S
+841;20257;3.02;MIL;2021-10-01;2021-12-31;Custo dos Bens e/ou Serviços Vendidos;-125418.0;S
+845;20257;3.06;MIL;2021-10-01;2021-12-31;Resultado Financeiro;-223515.0;S
+843;20257;3.04;MIL;2021-10-01;2021-12-31;Despesas/Receitas Operacionais;98408.0;S
+842;20257;3.03;MIL;2021-10-01;2021-12-31;Resultado Bruto;591540.0;S
+840;20257;3.01;MIL;2021-10-01;2021-12-31;Receita de Venda de Bens e/ou Serviços;716958.0;S
+846;20257;3.07;MIL;2021-10-01;2021-12-31;Resultado Antes dos Tributos sobre o Lucro;466433.0;S
+844;20257;3.05;MIL;2021-10-01;2021-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;689948.0;S
+397;20257;3.02;MIL;2022-01-01;2022-03-31;Custo dos Bens e/ou Serviços Vendidos;-69712.0;S
+396;20257;3.01;MIL;2022-01-01;2022-03-31;Receita de Venda de Bens e/ou Serviços;795647.0;S
+405;20257;3.10;MIL;2022-01-01;2022-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+404;20257;3.09;MIL;2022-01-01;2022-03-31;Resultado Líquido das Operações Continuadas;559923.0;S
+403;20257;3.08;MIL;2022-01-01;2022-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-107189.0;S
+402;20257;3.07;MIL;2022-01-01;2022-03-31;Resultado Antes dos Tributos sobre o Lucro;667112.0;S
+401;20257;3.06;MIL;2022-01-01;2022-03-31;Resultado Financeiro;-228179.0;S
+400;20257;3.05;MIL;2022-01-01;2022-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;895291.0;S
+399;20257;3.04;MIL;2022-01-01;2022-03-31;Despesas/Receitas Operacionais;169356.0;S
+398;20257;3.03;MIL;2022-01-01;2022-03-31;Resultado Bruto;725935.0;S
+406;20257;3.11;MIL;2022-01-01;2022-03-31;Lucro/Prejuízo Consolidado do Período;559923.0;S
+407;20257;3.99;MIL;2022-01-01;2022-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+412;20257;3.05;MIL;2022-04-01;2022-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;925132.0;S
+413;20257;3.06;MIL;2022-04-01;2022-06-30;Resultado Financeiro;-260577.0;S
+414;20257;3.07;MIL;2022-04-01;2022-06-30;Resultado Antes dos Tributos sobre o Lucro;664555.0;S
+415;20257;3.08;MIL;2022-04-01;2022-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-100533.0;S
+416;20257;3.09;MIL;2022-04-01;2022-06-30;Resultado Líquido das Operações Continuadas;564022.0;S
+417;20257;3.10;MIL;2022-04-01;2022-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+418;20257;3.11;MIL;2022-04-01;2022-06-30;Lucro/Prejuízo Consolidado do Período;564022.0;S
+419;20257;3.99;MIL;2022-04-01;2022-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+411;20257;3.04;MIL;2022-04-01;2022-06-30;Despesas/Receitas Operacionais;171208.0;S
+409;20257;3.02;MIL;2022-04-01;2022-06-30;Custo dos Bens e/ou Serviços Vendidos;-93797.0;S
+410;20257;3.03;MIL;2022-04-01;2022-06-30;Resultado Bruto;753924.0;S
+408;20257;3.01;MIL;2022-04-01;2022-06-30;Receita de Venda de Bens e/ou Serviços;847721.0;S
+421;20257;3.02;MIL;2022-07-01;2022-09-30;Custo dos Bens e/ou Serviços Vendidos;-137843.0;S
+431;20257;3.99;MIL;2022-07-01;2022-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+430;20257;3.11;MIL;2022-07-01;2022-09-30;Lucro/Prejuízo Consolidado do Período;302454.0;S
+429;20257;3.10;MIL;2022-07-01;2022-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+428;20257;3.09;MIL;2022-07-01;2022-09-30;Resultado Líquido das Operações Continuadas;302454.0;S
+427;20257;3.08;MIL;2022-07-01;2022-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;-8586.0;S
+426;20257;3.07;MIL;2022-07-01;2022-09-30;Resultado Antes dos Tributos sobre o Lucro;311040.0;S
+425;20257;3.06;MIL;2022-07-01;2022-09-30;Resultado Financeiro;-85759.0;S
+424;20257;3.05;MIL;2022-07-01;2022-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;396799.0;S
+423;20257;3.04;MIL;2022-07-01;2022-09-30;Despesas/Receitas Operacionais;70849.0;S
+422;20257;3.03;MIL;2022-07-01;2022-09-30;Resultado Bruto;325950.0;S
+420;20257;3.01;MIL;2022-07-01;2022-09-30;Receita de Venda de Bens e/ou Serviços;463793.0;S
+876;20257;3.01;MIL;2022-10-01;2022-12-31;Receita de Venda de Bens e/ou Serviços;509356.0;S
+885;20257;3.10;MIL;2022-10-01;2022-12-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+884;20257;3.09;MIL;2022-10-01;2022-12-31;Resultado Líquido das Operações Continuadas;22816.0;S
+883;20257;3.08;MIL;2022-10-01;2022-12-31;Imposto de Renda e Contribuição Social sobre o Lucro;-38208.0;S
+882;20257;3.07;MIL;2022-10-01;2022-12-31;Resultado Antes dos Tributos sobre o Lucro;61024.0;S
+881;20257;3.06;MIL;2022-10-01;2022-12-31;Resultado Financeiro;-163042.0;S
+880;20257;3.05;MIL;2022-10-01;2022-12-31;Resultado Antes do Resultado Financeiro e dos Tributos;224066.0;S
+879;20257;3.04;MIL;2022-10-01;2022-12-31;Despesas/Receitas Operacionais;-88194.0;S
+878;20257;3.03;MIL;2022-10-01;2022-12-31;Resultado Bruto;312260.0;S
+877;20257;3.02;MIL;2022-10-01;2022-12-31;Custo dos Bens e/ou Serviços Vendidos;-197096.0;S
+886;20257;3.11;MIL;2022-10-01;2022-12-31;Lucro/Prejuízo Consolidado do Período;22816.0;S
+887;20257;3.99;MIL;2022-10-01;2022-12-31;Lucro por Ação - (Reais / Ação);0.0;N
+432;20257;3.01;MIL;2023-01-01;2023-03-31;Receita de Venda de Bens e/ou Serviços;692915.0;S
+433;20257;3.02;MIL;2023-01-01;2023-03-31;Custo dos Bens e/ou Serviços Vendidos;-106446.0;S
+435;20257;3.04;MIL;2023-01-01;2023-03-31;Despesas/Receitas Operacionais;143154.0;S
+436;20257;3.05;MIL;2023-01-01;2023-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;729623.0;S
+437;20257;3.06;MIL;2023-01-01;2023-03-31;Resultado Financeiro;-281703.0;S
+438;20257;3.07;MIL;2023-01-01;2023-03-31;Resultado Antes dos Tributos sobre o Lucro;447920.0;S
+439;20257;3.08;MIL;2023-01-01;2023-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-61148.0;S
+440;20257;3.09;MIL;2023-01-01;2023-03-31;Resultado Líquido das Operações Continuadas;386772.0;S
+441;20257;3.10;MIL;2023-01-01;2023-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+442;20257;3.11;MIL;2023-01-01;2023-03-31;Lucro/Prejuízo Consolidado do Período;386772.0;S
+443;20257;3.99;MIL;2023-01-01;2023-03-31;Lucro por Ação - (Reais / Ação);0.0;N
+434;20257;3.03;MIL;2023-01-01;2023-03-31;Resultado Bruto;586469.0;S
+455;20257;3.99;MIL;2023-04-01;2023-06-30;Lucro por Ação - (Reais / Ação);0.0;N
+454;20257;3.11;MIL;2023-04-01;2023-06-30;Lucro/Prejuízo Consolidado do Período;220326.0;S
+453;20257;3.10;MIL;2023-04-01;2023-06-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+452;20257;3.09;MIL;2023-04-01;2023-06-30;Resultado Líquido das Operações Continuadas;220326.0;S
+451;20257;3.08;MIL;2023-04-01;2023-06-30;Imposto de Renda e Contribuição Social sobre o Lucro;-7127.0;S
+448;20257;3.05;MIL;2023-04-01;2023-06-30;Resultado Antes do Resultado Financeiro e dos Tributos;470720.0;S
+449;20257;3.06;MIL;2023-04-01;2023-06-30;Resultado Financeiro;-243267.0;S
+447;20257;3.04;MIL;2023-04-01;2023-06-30;Despesas/Receitas Operacionais;32407.0;S
+446;20257;3.03;MIL;2023-04-01;2023-06-30;Resultado Bruto;438313.0;S
+445;20257;3.02;MIL;2023-04-01;2023-06-30;Custo dos Bens e/ou Serviços Vendidos;-240191.0;S
+444;20257;3.01;MIL;2023-04-01;2023-06-30;Receita de Venda de Bens e/ou Serviços;678504.0;S
+450;20257;3.07;MIL;2023-04-01;2023-06-30;Resultado Antes dos Tributos sobre o Lucro;227453.0;S
+464;20257;3.09;MIL;2023-07-01;2023-09-30;Resultado Líquido das Operações Continuadas;278942.0;S
+467;20257;3.99;MIL;2023-07-01;2023-09-30;Lucro por Ação - (Reais / Ação);0.0;N
+466;20257;3.11;MIL;2023-07-01;2023-09-30;Lucro/Prejuízo Consolidado do Período;278942.0;S
+465;20257;3.10;MIL;2023-07-01;2023-09-30;Resultado Líquido de Operações Descontinuadas;0.0;S
+463;20257;3.08;MIL;2023-07-01;2023-09-30;Imposto de Renda e Contribuição Social sobre o Lucro;41206.0;S
+457;20257;3.02;MIL;2023-07-01;2023-09-30;Custo dos Bens e/ou Serviços Vendidos;-255406.0;S
+461;20257;3.06;MIL;2023-07-01;2023-09-30;Resultado Financeiro;-182545.0;S
+460;20257;3.05;MIL;2023-07-01;2023-09-30;Resultado Antes do Resultado Financeiro e dos Tributos;420281.0;S
+459;20257;3.04;MIL;2023-07-01;2023-09-30;Despesas/Receitas Operacionais;-10779.0;S
+458;20257;3.03;MIL;2023-07-01;2023-09-30;Resultado Bruto;431060.0;S
+456;20257;3.01;MIL;2023-07-01;2023-09-30;Receita de Venda de Bens e/ou Serviços;686466.0;S
+462;20257;3.07;MIL;2023-07-01;2023-09-30;Resultado Antes dos Tributos sobre o Lucro;237736.0;S
+478;20257;3.11;MIL;2024-01-01;2024-03-31;Lucro/Prejuízo Consolidado do Período;374027.0;S
+477;20257;3.10;MIL;2024-01-01;2024-03-31;Resultado Líquido de Operações Descontinuadas;0.0;S
+476;20257;3.09;MIL;2024-01-01;2024-03-31;Resultado Líquido das Operações Continuadas;374027.0;S
+475;20257;3.08;MIL;2024-01-01;2024-03-31;Imposto de Renda e Contribuição Social sobre o Lucro;-32827.0;S
+474;20257;3.07;MIL;2024-01-01;2024-03-31;Resultado Antes dos Tributos sobre o Lucro;406854.0;S
+471;20257;3.04;MIL;2024-01-01;2024-03-31;Despesas/Receitas Operacionais;98598.0;S
+472;20257;3.05;MIL;2024-01-01;2024-03-31;Resultado Antes do Resultado Financeiro e dos Tributos;710766.0;S
+470;20257;3.03;MIL;2024-01-01;2024-03-31;Resultado Bruto;612168.0;S
+469;20257;3.02;MIL;2024-01-01;2024-03-31;Custo dos Bens e/ou Serviços Vendidos;-119153.0;S
+468;20257;3.01;MIL;2024-01-01;2024-03-31;Receita de Venda de Bens e/ou Serviços;731321.0;S
+473;20257;3.06;MIL;2024-01-01;2024-03-31;Resultado Financeiro;-303912.0;S
+479;20257;3.99;MIL;2024-01-01;2024-03-31;Lucro por Ação - (Reais / Ação);0.0;N
